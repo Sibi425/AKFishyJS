@@ -1,0 +1,212 @@
+[
+    {
+        "name": "Schwarzer Goldblitz",
+        "location": "Wunderwald",
+        "time": [
+            "01:00",
+            "09:00",
+            "17:00"
+        ],
+        "day": "Montag",
+        "bait": ""
+    },
+    {
+        "name": "Allwissender Weiser",
+        "location": "Geierplateau",
+        "time": [
+            "01:00",
+            "09:00",
+            "17:00"
+        ],
+        "day": "Montag",
+        "bait": ""
+    },
+    {
+        "name": "Meerestyrann",
+        "location": "Skandia",
+        "time": [
+            "01:00",
+            "09:00",
+            "17:00"
+        ],
+        "day": "Dienstag",
+        "bait": ""
+    },
+    {
+        "name": "Meeresschuppe",
+        "location": "Nesselhügel",
+        "time": [
+            "01:00",
+            "09:00",
+            "17:00"
+        ],
+        "day": "Dienstag",
+        "bait": ""
+    },
+    {
+        "name": "Jäh. Wüstenherrscher",
+        "location": "Triato Hochland",
+        "time": [
+            "05:00",
+            "13:00",
+            "21:00"
+        ],
+        "day": "Dienstag",
+        "bait": ""
+    },
+    {
+        "name": "Ozean-Flinkschatten",
+        "location": "Korsarenküste",
+        "time": [
+            "01:00",
+            "09:00",
+            "17:00"
+        ],
+        "day": "Mittwoch",
+        "bait": ""
+    },
+    {
+        "name": "Unbekannter Sumpfmörder",
+        "location": "Schummermoor",
+        "time": [
+            "05:00",
+            "13:00",
+            "21:00"
+        ],
+        "day": "Mittwoch",
+        "bait": ""
+    },
+    {
+        "name": "Unbekannte Kreatur",
+        "location": "Sternschnuppenplateau",
+        "time": [
+            "05:00",
+            "13:00",
+            "21:00"
+        ],
+        "day": "Mittwoch",
+        "bait": ""
+    },
+    {
+        "name": "Goldener Retter",
+        "location": "Rote Hügel",
+        "time": [
+            "01:00",
+            "09:00",
+            "17:00"
+        ],
+        "day": "Donnerstag",
+        "bait": ""
+    },
+    {
+        "name": "Dunkler Lanzenritter",
+        "location": "Mortinger Hafen",
+        "time": [
+            "01:00",
+            "09:00",
+            "17:00"
+        ],
+        "day": "Donnerstag",
+        "bait": ""
+    },
+    {
+        "name": "Regenbogenfee",
+        "location": "Sturmprärie",
+        "time": [
+            "05:00",
+            "13:00",
+            "21:00"
+        ],
+        "day": "Donnerstag",
+        "bait": ""
+    },
+    {
+        "name": "Unsterblicher Gierschlund",
+        "location": "Wasserfalldschungel",
+        "time": [
+            "05:00",
+            "13:00",
+            "21:00"
+        ],
+        "day": "Donnerstag",
+        "bait": ""
+    },
+    {
+        "name": "Zeuge der Vorzeit",
+        "location": "Tüftlerwald",
+        "time": [
+            "01:00",
+            "09:00",
+            "17:00"
+        ],
+        "day": "Freitag",
+        "bait": ""
+    },
+    {
+        "name": "Kaskadengeist",
+        "location": "Vergessener Wald",
+        "time": [
+            "05:00",
+            "13:00",
+            "21:00"
+        ],
+        "day": "Freitag",
+        "bait": ""
+    },
+    {
+        "name": "Ewiges Eis",
+        "location": "Stilles Eisfeld",
+        "time": [
+            "05:00",
+            "13:00",
+            "21:00"
+        ],
+        "day": "Freitag",
+        "bait": ""
+    },
+    {
+        "name": "Mutiertes Kristallwesen",
+        "location": "Wundermine",
+        "time": [
+            "01:00",
+            "09:00",
+            "17:00"
+        ],
+        "day": "Samstag",
+        "bait": ""
+    },
+    {
+        "name": "Närrischer Scharlachbarsch",
+        "location": "Immergrün",
+        "time": [
+            "01:00",
+            "09:00",
+            "17:00"
+        ],
+        "day": "Samstag",
+        "bait": ""
+    },
+    {
+        "name": "Oasen-Eremit",
+        "location": "Sternsandwüste",
+        "time": [
+            "05:00",
+            "13:00",
+            "21:00"
+        ],
+        "day": "Samstag",
+        "bait": ""
+    },
+    {
+        "name": "Alle Fische",
+        "location": "Alle Gebiete",
+        "time": [
+            "13:00",
+            "17:00"
+        ],
+        "day": "Sonntag",
+        "bait": ""
+    }
+
+
+]
